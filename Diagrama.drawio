@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" modified="2023-12-05T00:53:42.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="mgn37lRVxM8EECOF3mRg" version="22.1.5" type="device">
+  <diagram name="Page-1" id="xB-K4X6F5Nm3FAEROrf9">
+    <mxGraphModel dx="1430" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="F9RQUm-1Kr5JguOoBr5d-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F9RQUm-1Kr5JguOoBr5d-1" target="F9RQUm-1Kr5JguOoBr5d-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F9RQUm-1Kr5JguOoBr5d-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F9RQUm-1Kr5JguOoBr5d-1" target="F9RQUm-1Kr5JguOoBr5d-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F9RQUm-1Kr5JguOoBr5d-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F9RQUm-1Kr5JguOoBr5d-1" target="F9RQUm-1Kr5JguOoBr5d-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F9RQUm-1Kr5JguOoBr5d-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Main Menu&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F9RQUm-1Kr5JguOoBr5d-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F9RQUm-1Kr5JguOoBr5d-4" target="F9RQUm-1Kr5JguOoBr5d-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F9RQUm-1Kr5JguOoBr5d-4" value="Map Selector&lt;br&gt;(Selectarea hartii de joc)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="368" y="242.5" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="F9RQUm-1Kr5JguOoBr5d-5" value="Dealership&lt;br&gt;(Magazin masini)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="112.5" y="242.5" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="F9RQUm-1Kr5JguOoBr5d-7" value="Player Garage&lt;br&gt;(Vizualizare masini detinute)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="610" y="237.5" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="F9RQUm-1Kr5JguOoBr5d-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F9RQUm-1Kr5JguOoBr5d-14" target="F9RQUm-1Kr5JguOoBr5d-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F9RQUm-1Kr5JguOoBr5d-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F9RQUm-1Kr5JguOoBr5d-14" target="F9RQUm-1Kr5JguOoBr5d-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F9RQUm-1Kr5JguOoBr5d-14" value="In-game Menu&lt;br&gt;(Interfata din timpul rundei)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="510" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="F9RQUm-1Kr5JguOoBr5d-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Diagrama Interfata Utilizator&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F9RQUm-1Kr5JguOoBr5d-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="F9RQUm-1Kr5JguOoBr5d-20" target="F9RQUm-1Kr5JguOoBr5d-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F9RQUm-1Kr5JguOoBr5d-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="F9RQUm-1Kr5JguOoBr5d-20" target="F9RQUm-1Kr5JguOoBr5d-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F9RQUm-1Kr5JguOoBr5d-20" value="In-Game Pause Menu (Interfata de pauza din timpul rundei)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="660" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="F9RQUm-1Kr5JguOoBr5d-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F9RQUm-1Kr5JguOoBr5d-21" target="F9RQUm-1Kr5JguOoBr5d-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F9RQUm-1Kr5JguOoBr5d-21" value="In-Game Ending Menu (Interfata de la finalul rundei)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="660" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="F9RQUm-1Kr5JguOoBr5d-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F9RQUm-1Kr5JguOoBr5d-27" target="F9RQUm-1Kr5JguOoBr5d-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F9RQUm-1Kr5JguOoBr5d-27" value="Play Selected Map&lt;br&gt;(Joaca pe harta selectata)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="370" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="F9RQUm-1Kr5JguOoBr5d-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1.004;entryY=0.834;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F9RQUm-1Kr5JguOoBr5d-21" target="F9RQUm-1Kr5JguOoBr5d-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
